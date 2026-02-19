@@ -11,5 +11,3 @@ Contenido
 Para esto use:
 Python 3.x
 NumPy
-
-
