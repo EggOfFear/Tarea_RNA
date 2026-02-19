@@ -6,10 +6,11 @@ Contenido
 
 [network.py](network.py)   – Implementación de la red neuronal.
 
-[Captura Ejecucion.png](Captura Ejecucion.png)  Linea de respuesta que me dio al mandar el codigo
+[Captura_Ejecucion.png](Captura_Ejecucion.png) Linea de respuesta que me dio al mandar el codigo
 
 Para esto use:
 Python 3.x
 NumPy
+
 
 
