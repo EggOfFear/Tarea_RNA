@@ -4,11 +4,12 @@ Este repositorio contiene la implementación de una red neuronal básica utiliza
 
 Contenido
 
-network.py – Implementación de la red neuronal.
+[network.py](network.py)   – Implementación de la red neuronal.
 
-Captura_Ejecucion.png Linea de respuesta que me dio al mandar el codigo
+[Captura_Ejecucion.png](Captura_Ejecucion.png) Linea de respuesta que me dio al mandar el codigo
 
 Para esto use:
 Python 3.x
 NumPy
+
 
